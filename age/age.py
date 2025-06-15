@@ -1,7 +1,6 @@
 
 name = input("Enter your name: ")
 age = int(input("Enter your age: "))
-
 if age < 10:
     print("Sorry", name + ", you can't join Year 10.")
 else:
